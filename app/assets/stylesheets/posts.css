@@ -8,3 +8,7 @@
   color: gray;
   background-color: brown;
 }
+
+div[data-check="true"] {
+  background-color: #585555;
+}
